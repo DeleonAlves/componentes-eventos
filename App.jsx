@@ -4,6 +4,7 @@ import MyComponent from './components/MyComponent.jsx';
 import Events from './components/Events.jsx';
 import Challenge from './components/Challenge.jsx';
 import './App.css';
+import Treino from './components/Treino.jsx';
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
       <MyComponent />
       <Events />
       <Challenge />
+      <Treino />
     </div>
     </>
   );
