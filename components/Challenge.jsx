@@ -10,8 +10,9 @@ const Challenge = () => {
    
     return (
         <div>
-            <h1>A  é {a}</h1>
-            <h1>B é {b}</h1>
+            <p>A  é {a}</p>
+            <p>B é {b}</p>
+            
             <button onClick={() => console.log(a+b)}> Aperte para somar</button>
         </div>
 

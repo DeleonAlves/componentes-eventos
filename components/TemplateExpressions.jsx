@@ -13,9 +13,9 @@ const TemplateExpressions = () => {
     return (
         <div>
             < MyComponent/>
-            <h1>Ola {name} Belez? </h1>
-            <h2>Qual sua profissão? <br/> {data.job}</h2>
-            <h2>E qual sua idade?<br/> {data.age}</h2>
+            <p>Ola {name} Belez? </p>
+            <p>Qual sua profissão? <br/> {data.job}</p>
+            <p>E qual sua idade?<br/> {data.age}</p>
             
         </div>
     )

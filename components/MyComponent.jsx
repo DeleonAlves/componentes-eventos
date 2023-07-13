@@ -3,7 +3,7 @@ const MyComponent = () => {
 
     return (
         <div>
-            <h1>Aproveitando em lugares diferentes!</h1>
+            <p>Aproveitando em lugares diferentes!</p>
         </div>
     )
 }

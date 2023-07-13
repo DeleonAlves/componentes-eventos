@@ -2,10 +2,10 @@
 const FirstComponent = () => {
     return (
      <>
-            <h1>
+            <p>
                 Meu primeiro componente
-            </h1>
-           <h2>teste</h2>
+            </p>
+           <p>teste</p>
      </>
        
     );
