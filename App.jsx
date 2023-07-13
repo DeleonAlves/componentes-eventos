@@ -1,6 +1,7 @@
 import FirstComponent from './components/FirstComponent.jsx';
 import TemplateExpressions from './components/TemplateExpressions.jsx';
 import MyComponent from './components/MyComponent.jsx';
+import Events from './components/Events.jsx';
 import './App.css';
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
       <FirstComponent />
       <TemplateExpressions />
       <MyComponent />
+      <Events />
     </div>
     </>
   );
